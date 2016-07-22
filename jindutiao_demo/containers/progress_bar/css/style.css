@@ -1,0 +1,32 @@
+.btn
+{
+    width: 100px;
+    height: 50px;
+
+    background-color: #d0d6de;
+}
+.btn:hover
+{
+    cursor: pointer;
+
+    background-color: #aeb4b7;
+}
+.progress-bar
+{
+    display: inline-block;
+
+    width: 800px;
+    height: 50px;
+    margin-left: 50px;
+
+    vertical-align: middle;
+
+    border: 1px solid #ddd;
+    background-color: #3771ef;
+}
+.progress-remain
+{
+    height: 100%;
+    float: right;
+    background-color: #e2ebef;
+}

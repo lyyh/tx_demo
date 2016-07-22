@@ -1,0 +1,3 @@
+export.load = ()=>{
+	var timer 
+}
